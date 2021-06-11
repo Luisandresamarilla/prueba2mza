@@ -1,0 +1,9 @@
+@font-face{
+font-family:'arabe';
+src: url('arabe.ttf')   format('truetype');
+}
+
+
+body {
+font-family: "arabe";
+}
